@@ -1,3 +1,4 @@
+# Codenation react acceleration project
 # React / Redux Spotify Pocket SPA
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3194f71c-2da4-4146-b1ba-3c14e024ec2f/deploy-status)](https://app.netlify.com/sites/viniciusvinna-react-pocket-spotify/deploys)
